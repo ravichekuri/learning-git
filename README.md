@@ -1,4 +1,6 @@
 # learning-git
 Repository for learning GIT
 
-copyright section
+copyright sectio
+
+please revoke the changesn
