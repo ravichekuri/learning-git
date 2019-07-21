@@ -13,6 +13,6 @@
         "imageSrc": "assets/icons/visitmanagement_icon.png"
     },
     {
-        "text": "OP Visit Directory",
+        "text_IstashD": "OP Visit Directory",
         "qtip": "OP Visit Management",
 
