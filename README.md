@@ -2,5 +2,6 @@
 Repository for learning GIT
 
 copyright sectio
-Al rights reserved
+Al rights reserve
+energency fixd
 please revoke the changesn
